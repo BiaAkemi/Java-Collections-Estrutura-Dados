@@ -34,7 +34,7 @@ public class Ex01Fila {
 				fila.add(nome);
 				System.out.println("Cliente Adicionado!");
 				break;
-			
+			 
 			case 2:
 				leia.nextLine();
 				System.out.println("\nLista de clientes na Fila: ");
