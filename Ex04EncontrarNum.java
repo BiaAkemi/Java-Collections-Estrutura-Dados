@@ -1,4 +1,4 @@
-package Modulo12CollectionsEstruturaDados;
+package JavaExercicios.Modulo12CollectionsEstruturaDados;
 
 import java.util.ArrayList;
 import java.util.List;
