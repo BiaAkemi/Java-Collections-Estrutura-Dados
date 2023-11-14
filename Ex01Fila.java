@@ -51,9 +51,7 @@ public class Ex01Fila {
 				System.out.println("\nPrograma Finalizado!");
 			
 			}
-		}while(op !=0);
-		
-		
-	}
-
+		} while(op !=0);	
+		leia.close();
+	} 
 }
